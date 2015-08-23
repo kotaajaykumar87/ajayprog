@@ -14,6 +14,7 @@
 		69CA0A671B89ECA400D37D78 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 69CA0A661B89ECA400D37D78 /* Images.xcassets */; };
 		69CA0A6A1B89ECA400D37D78 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 69CA0A681B89ECA400D37D78 /* LaunchScreen.xib */; };
 		69CA0A761B89ECA400D37D78 /* ajayprogTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 69CA0A751B89ECA400D37D78 /* ajayprogTests.m */; };
+		69CA0A801B89F2D100D37D78 /* 46522863.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 69CA0A7F1B89F2D100D37D78 /* 46522863.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		69CA0A6F1B89ECA400D37D78 /* ajayprogTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ajayprogTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		69CA0A741B89ECA400D37D78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		69CA0A751B89ECA400D37D78 /* ajayprogTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ajayprogTests.m; sourceTree = "<group>"; };
+		69CA0A7F1B89F2D100D37D78 /* 46522863.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 46522863.jpg; path = ../../46522863.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				69CA0A5E1B89ECA400D37D78 /* AppDelegate.m */,
 				69CA0A601B89ECA400D37D78 /* ViewController.h */,
 				69CA0A611B89ECA400D37D78 /* ViewController.m */,
+				69CA0A7F1B89F2D100D37D78 /* 46522863.jpg */,
 				69CA0A631B89ECA400D37D78 /* Main.storyboard */,
 				69CA0A661B89ECA400D37D78 /* Images.xcassets */,
 				69CA0A681B89ECA400D37D78 /* LaunchScreen.xib */,
@@ -202,6 +205,7 @@
 				69CA0A651B89ECA400D37D78 /* Main.storyboard in Resources */,
 				69CA0A6A1B89ECA400D37D78 /* LaunchScreen.xib in Resources */,
 				69CA0A671B89ECA400D37D78 /* Images.xcassets in Resources */,
+				69CA0A801B89F2D100D37D78 /* 46522863.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -418,6 +422,7 @@
 				69CA0A7B1B89ECA400D37D78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		69CA0A7C1B89ECA400D37D78 /* Build configuration list for PBXNativeTarget "ajayprogTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +431,7 @@
 				69CA0A7E1B89ECA400D37D78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
